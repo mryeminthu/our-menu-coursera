@@ -5,12 +5,21 @@
 }
 
 body {
-    background: (at top right, lightcyan, lightblue)
+    background: conic-gradient(from -90deg at bottom center, papayawhip, peachpuff);
 }
 
 h1 {
     text-align: center;
     color: #0000ffd5;
     font-weight: bold;
-    margin: 15px 0;
+    margin: 20px 0;
+}
+
+section {
+    width: 31%;
+    display: inline-block;
+    margin: 0 10px 15px 10px;
+    padding: 5px 10px;
+    border: 2px solid blueviolet;
+    border-radius: 8px;
 }
