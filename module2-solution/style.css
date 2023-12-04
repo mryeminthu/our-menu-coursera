@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background: (at top right, lightcyan, lightblue)
+}
+
+h1 {
+    text-align: center;
+    color: #0000ffd5;
+    font-weight: bold;
+    margin: 15px 0;
+}
